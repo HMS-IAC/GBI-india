@@ -1,6 +1,6 @@
 numpy
 Pillow
-imageio
+imageio[opencv]
 scikit-image[data]
 matplotlib
 ipython
