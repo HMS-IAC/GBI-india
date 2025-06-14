@@ -1,0 +1,10 @@
+numpy
+Pillow
+imageio
+scikit-image[data]
+matplotlib
+ipython
+matplotlib-inline
+jupyterlab
+pooch
+ipykernel
